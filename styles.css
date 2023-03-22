@@ -1,0 +1,27 @@
+body {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: rgb(201, 208, 219);
+}
+
+
+img {
+    width: 100%;
+    height:auto;
+    border-radius: 5%;
+    box-shadow: 1em;
+}
+
+ul li{
+    max-width: 550px;
+    text-align: left;
+    display: table;
+    margin: 0 auto;
+    line-height: 3.5;
+
+}
+
+#quote {
+    font-size: 25px;
+}
